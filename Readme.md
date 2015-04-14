@@ -67,6 +67,17 @@ $ format-xml --config-file .format-xml.cson < dirty.xml > clean.xml
 
 
 
+
+Alternatives
+------------
+
+This tool is focused and configurable. If you’re after something else, you might try these out:
+
+- [pretty-xml](https://npm.im/pretty-xml)
+
+
+
+
 License
 -------
 
