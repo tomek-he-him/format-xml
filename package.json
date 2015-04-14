@@ -1,6 +1,6 @@
-{ "name": "…"
-, "version": "0.0.0"
-, "description": "…"
+{ "name": "format-xml"
+, "version": "0.0.0-work-in-progress"
+, "description": "A streaming XML beautifier. Fully customizable."
 
 , "dependencies":
   {}
@@ -11,26 +11,35 @@
   }
 
 , "devDependencies":
-  { "?": "Run `npm install babel node-tap` and save it here"
+  { "babel": "5.1.8"
+  , "tap-spec": "3.0.0"
 
-  , "?": "Run `npm install gulp gulp-babel` and save it here"
+  , "gulp": "3.8.11"
+  , "gulp-babel": "5.1.0"
   }
 
 , "main": "/dist.es5/index.js"
 , "files":
   [ "/dist.es5/"
   , "/dist.es6/"
-  , "Readme.md"
-  , "License.md"
+  , "/Readme.md"
+  , "/License.md"
   ]
 
 , "license": "MIT"
 , "keywords":
-  [ "…"
+  [ "beautify"
+  , "pretty-xml"
+  , "formatter"
+  , "beautifier"
+  , "pretty"
+  , "prettify"
+  , "xml"
+  , "data"
   ]
 , "author": "Tomek Wiszniewski <t.wiszniewski@gmail.com>"
 , "repository":
   { "type": "git"
-  , "url": "git@github.com:tomekwi/….git"
+  , "url": "git@github.com:tomekwi/format-xml.cli.git"
   }
 }
