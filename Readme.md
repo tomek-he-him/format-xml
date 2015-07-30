@@ -16,7 +16,7 @@ format-xml
 **Fully customizable.**  
 **Opt-in – no magic.**
 
-*Heads up: This is a work in progress. Ideas and criticism are very welcome.*
+***Heads up!** This is DEFINITELY NOT READY FOR USE YET. Ideas and criticism are very welcome though.*
 
 
 
